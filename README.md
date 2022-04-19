@@ -8,7 +8,7 @@ I'm currently working as a Software Engineer at **[ExtraHop](https://www.extraho
 
 ## How to reach me
 :pencil:  You can also find me writing at [Medium](https://medium.com/@acarr59) </br>
-:handshake: And making connections on [Linkedin](https://www.linkedin.com/in/alexis-carr/)
+:handshake: And making connections on [Linkedin](https://www.linkedin.com/in/alexis-j-carr/)
 
 
 

@@ -1,7 +1,7 @@
 # Hi there, I'm Alexis 👋
 
 
-## About Me:  🎷
+## About Me  🎷
 Proud MS Graduate of the Fightin' Texas Aggie Class of 2019  
 
 I'm currently working as a Software Engineer at **[ExtraHop](https://www.extrahop.com/)**.

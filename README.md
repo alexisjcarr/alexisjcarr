@@ -4,7 +4,7 @@
 ## About Me  🎷
 Proud MS Graduate of the Fightin' Texas Aggie Class of 2019  
 
-I'm currently working as a Software Engineer at **[ExtraHop](https://www.extrahop.com/)**.
+I'm currently working as a Software Engineer at **[GitHub](https://www.github.com/)**.
 
 ## How to reach me
 :pencil:  You can also find me writing at [Medium](https://medium.com/@acarr59) </br>

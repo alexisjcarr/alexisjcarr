@@ -2,7 +2,7 @@
 
 
 ## About Me  🎷
-I'm currently working as a Software Engineer at **[GitHub](https://www.github.com/)**.
+I'm currently working as a Database Infrastructure Engineer at **[GitHub](https://www.github.com/)**.
 
 ## How to reach me
 :pencil:  You can also find me writing at [Medium](https://medium.com/@acarr59) </br>
